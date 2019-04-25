@@ -13,7 +13,7 @@
     make run (ou ./crivo.o)
 ```
 
-*** Entrada de exemplo
+### Entrada de exemplo
 
 ```
 20
